@@ -1,8 +1,3 @@
-# calculadora:
-# - Dos campos de texto
-#  4 botones para las operaciones 
-#  Mostrar el resultado en una alerta
-
 from tkinter import *
 from tkinter import messagebox
 
